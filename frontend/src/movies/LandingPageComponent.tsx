@@ -10,19 +10,19 @@ export default function LandingPage(){
       setMovies({
         inTheaters:[{
           id: 1,
-          title: 'Movie name',
-          poster: 'https://fair-delivery.com/assets/woo.png'
+          title: 'Baraka movie',
+          poster: 'https://www.cinemaclock.com/images/posters/1000x1500/8/baraka-1992-movie-poster-u.jpg'
         },
         {
           id: 2,
-          title: 'Movie name 2',
-          poster: 'https://fair-delivery.com/assets/woo.png'
+          title: 'Apocalypto',
+          poster: 'https://i.pinimg.com/originals/68/1b/82/681b82aae79f4cdf3a6e4c9c7b81e595.jpg'
         }
       ],
       upcomingReleases:  [{
         id: 3,
-        title: 'Movie name',
-        poster: 'https://fair-delivery.com/assets/api.png'
+        title: 'Spider man name',
+        poster: 'https://image.tmdb.org/t/p/original/wZGlaMxBAjCIYLzyDWvocaoNooZ.jpg'
       },
       {
         id: 4,
